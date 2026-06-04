@@ -22,6 +22,7 @@ If you're a recruiter or collaborator looking at my work, the capstone repo is t
 Directories appear as work happens — not all exist on day one.
 
 ## To be Structure
+```
 .
 ├── foundations/             # NumPy from scratch, math warmups, MLP on MNIST
 ├── karpathy-zero-to-hero/   # micrograd, makemore, nanoGPT exercises
@@ -32,7 +33,7 @@ Directories appear as work happens — not all exist on day one.
 ├── quizzes/                 # Quiz scores, what I missed, retry notes
 ├── notes/                   # Concept notes, 3Blue1Brown summaries, Anki exports
 └── ablations/               # Deliberate breakage experiments to build intuition
-
+```
 ---
 
 ## How I'm using this
